@@ -3,7 +3,8 @@
 <package format="3">
   <name>gazebo_joint_traj_plugin</name>
   <version>0.1.0</version>
-  <description>Plugins for gazebo</description>
+  <description>A Gazebo plugin that provides a ROS2 FollowJointTrajectory action server, to drive robot motion in a simple way.
+  This is a standalone version of the plugin created for the Collaborative Robotic Sanding project.</description>
   <author email="jrgnichodevel@gmail.com">jnicho</author>
   <maintainer email="joe.schornak@gmail.com">Joe Schornak</maintainer>
   <license>BSD</license>
